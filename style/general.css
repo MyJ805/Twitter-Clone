@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+  background-color: black;
+  color: white;
+  margin-top: 0;
+}
+
+.overview {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  margin-right: 110px;
+}
+
+
+
